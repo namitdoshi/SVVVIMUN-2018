@@ -23,6 +23,10 @@ body{
   margin: 0;
 }
 
+just h3 {
+  text-align: justify-all;
+}
+
 .cont{
   height: 100vh;
   position: relative;
