@@ -130,3 +130,10 @@ h1{
     margin-bottom: 50px;
   }
 }
+
+@media (max-width: 600px) {
+  .social-content {
+    margin-top: 275px;
+    position: fixed;
+  }
+}
